@@ -7,7 +7,7 @@ An example to show the ISO Date Lite library at work.
 Clone the repo, build it, then run it.
 
 ```bash
-git clone...
+git clone git@github.com:TacticalLimit/isodate-lite-example.git
 cd isodate-example
 npm install
 npm start
